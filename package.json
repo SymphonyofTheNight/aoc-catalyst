@@ -14,7 +14,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@bigcommerce/catalyst-client": "workspace:^",
+    "@bigcommerce/catalyst-client": "1.0.1",
     "@c15t/nextjs": "^1.8.2",
     "@conform-to/react": "^1.6.1",
     "@conform-to/zod": "^1.6.1",
